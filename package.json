@@ -1,0 +1,17 @@
+{
+  "name": "victory-wave-academy",
+  "version": "1.0.0",
+  "description": "School website for Victory Wave Academy with a Node.js backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Victory Wave Academy",
+  "license": "MIT"
+}
